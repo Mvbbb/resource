@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="892ac064-b205-4f50-a240-a3bb91d18bb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-11-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-13-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-25-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-26-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-31-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-34-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-37-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-40-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-43-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-48-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-51-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-52-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-55-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-10-59-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-01-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-03-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-05-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-11-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-12-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-17-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-18-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-21-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-25-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-38-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-42-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-48-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-50-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-11-52-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.assets/2020-12-18-12-09-34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/东南大学数据库/东南大学-数据库原理.assets/关系 $A/B$ 表示 $$.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络学习笔记/计算机网络学习笔记.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -14,7 +58,30 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1lodH7dOKJkAAiUrYCL1Pf1q0Rl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="892ac064-b205-4f50-a240-a3bb91d18bb4" name="Default Changelist" comment="" />
+      <created>1608267288689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608267288689</updated>
+      <workItem from="1608267290634" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
